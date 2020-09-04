@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.collection&apos; to &apos;com.exception&apos;&#x0D;&#x0A;- Original project: &apos;JavaTpoint&apos;&#x0D;&#x0A;- Original element: &apos;JavaTpoint/src/com.collection&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaTpoint/src/com.exception&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.collection&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.collection" name="com.exception" qualified="false" references="true" stamp="1589921359575" textual="false" version="1.0"/>
+</session>

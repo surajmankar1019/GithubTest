@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.cjc.JavaMainMethod"/>
+<fullyQualifiedTypeName name="com.cjc2.ConstructorDemo"/>
+<fullyQualifiedTypeName name="com.cjc2.Constructor1"/>
+<fullyQualifiedTypeName name="com.modifiresScope.PrivateDemo"/>
+<fullyQualifiedTypeName name="com.modifiresScope.Person"/>
+<fullyQualifiedTypeName name="com.modifiresScope.DefaultDemo"/>
+<fullyQualifiedTypeName name="com.modifiresScope.ProtectedDemo"/>
+<fullyQualifiedTypeName name="java.nio.charset.MalformedInputException"/>
+<fullyQualifiedTypeName name="com.staticdemo.MyClass"/>
+<fullyQualifiedTypeName name="com.abstractdemo.Student"/>
+<fullyQualifiedTypeName name="com.abstractdemo.Person"/>
+<fullyQualifiedTypeName name="com.encapsulation.Person"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="com.tpoint.inheritance.Employee"/>
+<fullyQualifiedTypeName name="com.tpoint.inheritance.Progarmmer"/>
+<fullyQualifiedTypeName name="com.kunalclass.notebook.A"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="com.returntypeandarguments.ReturnTypeDemo"/>
+<fullyQualifiedTypeName name="com.returntypeclassname.Student"/>
+<fullyQualifiedTypeName name="com.cjc.oops.inheritance.ConstClassA"/>
+<fullyQualifiedTypeName name="com.cjc.oops.inheritance.ConstClassB"/>
+<fullyQualifiedTypeName name="com.core.Student"/>
+<fullyQualifiedTypeName name="com.typecaste.methodreturntype.Test"/>
+<fullyQualifiedTypeName name="com.cjc.inheritancecomplilerrule.B"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.multithreading.MyThread"/>
+</qualifiedTypeNameHistroy>

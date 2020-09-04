@@ -1,0 +1,9 @@
+package com.cjc.collection.sorting;
+
+public class Student {
+
+	private int rollno;
+	private String name;
+	
+	
+}
